@@ -30,8 +30,10 @@ medpoint-mobile/
 Git init, git remove add origin, git add, git commit -m "Innitial commit", dll. Serta branch main, develop, feature, dll. 
 
 # Semver 
+```
 cupertino_icons: ^1.0.8
 supabase_flutter: ^1.10.9
+```
 
 # flutter_application_1 
 A new Flutter project Mobile
