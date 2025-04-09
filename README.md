@@ -35,6 +35,8 @@ Git init, git remove add origin, git add, git commit -m "Innitial commit", dll. 
 cupertino_icons: ^1.0.8
 supabase_flutter: ^1.10.9
 ```
+# Recording
+Link:
 
 # flutter_application_1 
 A new Flutter project Mobile
