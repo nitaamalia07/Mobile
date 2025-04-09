@@ -1,3 +1,5 @@
+# Silahkan buka folder "mobile"
+
 # Tools
 Flutter, Dart, Supabase
 
