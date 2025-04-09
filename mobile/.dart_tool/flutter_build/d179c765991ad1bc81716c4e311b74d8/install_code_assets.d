@@ -1,0 +1,1 @@
+ /home/nita/mobile/.dart_tool/flutter_build/d179c765991ad1bc81716c4e311b74d8/native_assets.json: 
