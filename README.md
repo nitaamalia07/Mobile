@@ -1,4 +1,4 @@
-==> # Silahkan buka folder "mobile"
+===> # Silahkan buka folder "mobile" <===
 
 # Medpoint system 
 adalah sebuah platform yang memungkinkan pengguna untuk melakukan berbagai jenis reservasi medis online, termasuk konsultasi dokter, tes laboratorium, tindakan medis, dan vaksinasi. 
