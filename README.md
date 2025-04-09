@@ -36,7 +36,7 @@ cupertino_icons: ^1.0.8
 supabase_flutter: ^1.10.9
 ```
 # Recording
-Link:
+Link: https://jam.dev/c/cafab569-f8eb-41d8-bf76-d51c113542f9
 
 # flutter_application_1 
 A new Flutter project Mobile
