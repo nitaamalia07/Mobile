@@ -8,6 +8,7 @@ Flutter, Dart, Supabase, VS Code, Github
 
 # Structur Folder
 Berisikan structur folder secara umum:
+```bash
 medpoint-mobile/
 ├── lib/
 │   ├── screens/            # Halaman (Home, Login, Reservasi, dll.)
@@ -23,6 +24,7 @@ medpoint-mobile/
 ├── ios/
 ├── web/
 └── README.md
+```
 
 # Tools
 Git init, git remove add origin, git add, git commit -m "Innitial commit", dll. Serta branch main, develop, feature, dll. 
